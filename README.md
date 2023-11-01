@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Phil
 - 👀 I’m interested in Model Based Design
-- 🌱 I’m currently learning Mathworks Embedded Coder
+- 🌱 I’m currently learning Python
